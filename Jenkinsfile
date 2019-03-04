@@ -15,5 +15,3 @@ node {
    // Run the maven build
 }
 
-
-
